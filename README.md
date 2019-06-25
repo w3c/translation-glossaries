@@ -1,7 +1,9 @@
 # Translation Glossaries for W3C Documents
 
 Tips:
-* Check [other translations in your language](https://www.w3.org/Translations/) to see how similar words and concepts have been translated.<br>**[Authorized Translations](https://www.w3.org/Translations/authorized.html)** have had significant review and input.
+* Check other translations in your language to see how similar words and concepts have been translated. [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
+   * [Translations of W3C Technical Reports](https://www.w3.org/Translations/)
+   * [All WAI/Web Accessibility Translations](https://www.w3.org/WAI/translations/)
 * Consider different dialects. Where possible, use words and phrases that will be best understood across different areas.
 
 Glossaries:
