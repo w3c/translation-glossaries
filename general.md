@@ -18,7 +18,7 @@ _in German:_ Richtlinien für barrierefreie Webinhalte (WCAG)
 
 ## W3C terms capitalized
 
-Reserved [W3C process](https://www.w3.org/Consortium/Process/)-related terms should be translated and capitalized.
+[W3C process](https://www.w3.org/Consortium/Process/)-related terms should be translated and capitalized.
 This includes:
 * Groups: Working Group, Interest Group, Business Group, Community Group, Task Force.
 * W3C bodies: W3C Members, Team, Advisory Board, Advisory Committee, Technical Architecture Group
