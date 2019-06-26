@@ -1,6 +1,6 @@
 Contents:
 * You
-* W3C, WAI, WCAG, ARIA, ATAG, UAAG, etc.
+* W3C acronyms: W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
 * W3C terms capitalized
 
 ## You
@@ -9,8 +9,9 @@ Contents:
 * Background: [GitHub issue: "you" translate formal](https://github.com/w3c/wai-website/issues/123)
 * (Example of "you" in a W3C WAI resource: <q>You may use this video if you include a link to this page.</q> ([in context](https://www.w3.org/WAI/videos/standards-and-benefits/#permission)))
 
-## W3C, WAI, WCAG, ARIA, ATAG, UAAG, etc.
-Translate the words written out. Leave the acronym in English. For example:
+## W3C acronyms: W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
+
+For W3C Working Group names and Technical Reports, translate the words written out. Leave the acronym in English. For example:
 
  _in English:_ Web Content Accessibility Guidelines (WCAG)
 
