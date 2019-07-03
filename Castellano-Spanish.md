@@ -1,5 +1,13 @@
 Contents:
+* Capitalization - title and headings
 * You
+<hr>
+
+## Capitalization - title and headings
+
+In English, titles of documents and sometimes headings use headline-style capitalization.
+
+For the Spanish translation, capitalize only the first word of titles and headings.
 
 ## You
 * Use formal form of "usted" (not informal "tú").
