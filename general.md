@@ -1,7 +1,13 @@
 Contents:
+* Heading capitalization
 * You
 * W3C acronyms: W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
 * W3C terms capitalized
+<hr>
+
+## Heading capitalization
+
+W3C documents use headline-style capitalization (where every major word is capitalized) for document titles. Some also use headline-style capitalization for headings within the document (including h1, h2, etc.). Translations should use the proper capitaltion for your language.
 
 ## You
 * Use formal form of "you".
