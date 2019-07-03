@@ -1,6 +1,6 @@
 Contents:
 * Acronyms W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
-* Capitalization - headings
+* Capitalization - titles and headings
 * Capitalize W3C terms
 * You
 <hr>
@@ -13,7 +13,7 @@ For W3C Working Group names and Technical Reports, translate the words written o
 
 _in German:_ Richtlinien für barrierefreie Webinhalte (WCAG)
 
-## Capitalization - headings
+## Capitalization - titles and headings
 
 W3C documents use headline-style capitalization (where every major word is capitalized) for document titles. Some also use headline-style capitalization for headings within the document (including h1, h2, etc.).
 
