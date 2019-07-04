@@ -1,5 +1,6 @@
 Contents:
 * Capitalization - title and headings
+* "Summary" box heading
 * You
 <hr>
 
@@ -13,6 +14,10 @@ More info:
 
 http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rule 4.17)
 https://cvc.cervantes.es/lengua/alhabla/museo_horrores/museo_011.htm
+
+## "Summary" box heading
+
+Translate "Summary" as: "Resumen" ([consensus](https://github.com/w3c/translation-glossaries/issues/3))
 
 ## You
 * Use formal form of "usted" (not informal "tú").
