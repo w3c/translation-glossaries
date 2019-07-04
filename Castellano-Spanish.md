@@ -10,6 +10,7 @@ In English, titles of documents and sometimes headings use headline-style capita
 For the Spanish translation, capitalize only the first word of titles and headings.
 
 More info:
+
 http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rule 4.17)
 https://cvc.cervantes.es/lengua/alhabla/museo_horrores/museo_011.htm
 
