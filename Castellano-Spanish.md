@@ -10,6 +10,8 @@ In English, titles of documents and sometimes headings use headline-style capita
 
 For the Spanish translation, capitalize only the first word of titles and headings. Exception: always capitalize nouns and adjectives referring to entities, working groups, publications, official documents, etc.
 
+As stated in the [General Glosssary, capitalize W3C terms](https://github.com/w3c/translation-glossaries/blob/master/general.md#capitalize-w3c-terms).
+
 More info:
 
 http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rules 4.14-4.18)
