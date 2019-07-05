@@ -8,11 +8,11 @@ Contents:
 
 In English, titles of documents and sometimes headings use headline-style capitalization.
 
-For the Spanish translation, capitalize only the first word of titles and headings.
+For the Spanish translation, capitalize only the first word of titles and headings. Exception: always capitalize nouns and adjectives referring to entities, working groups, publications, official documents, etc.
 
 More info:
 
-http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rule 4.17)
+http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rules 4.14-4.18)
 https://cvc.cervantes.es/lengua/alhabla/museo_horrores/museo_011.htm
 
 ## "Summary" box heading
