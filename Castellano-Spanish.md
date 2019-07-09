@@ -1,5 +1,6 @@
 Contents:
 * Capitalization - title and headings
+* "Summary" box heading
 * You
 <hr>
 
@@ -15,10 +16,16 @@ More specifically:
 - W3C working groups are organization entities. All the nouns and adjectives must be translated (rule 4.14). Example: *“Grupo de Trabajo de Educación y Difusión (EOWG)”*.
 - WAI website documents are informative articles. Only the first word of the title/headings is capitalized (rule 4.17). Exceptions happen when the title contains words that should be capitalized, like proper nouns, official documents, or entities. Examples: *“Introducción a la accesibilidad web”*, *“Introducción a las Pautas de Accesibilidad para el Contenido Web”*.
 
+As stated in the [General Glosssary, capitalize W3C terms](https://github.com/w3c/translation-glossaries/blob/master/general.md#capitalize-w3c-terms).
+
 More info:
 
 http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rules 4.14-4.18)
 https://cvc.cervantes.es/lengua/alhabla/museo_horrores/museo_011.htm
+
+## "Summary" box heading
+
+Translate "Summary" as: "Resumen" ([consensus](https://github.com/w3c/translation-glossaries/issues/3))
 
 ## You
 * Use formal form of "usted" (not informal "tú").
