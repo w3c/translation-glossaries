@@ -1,6 +1,7 @@
 Contents:
 * Capitalization - title and headings
-* "Summary" box heading
+* "Page Contents" box heading
+* "Summary" box headings
 * You
 <hr>
 
@@ -22,6 +23,12 @@ More info:
 
 http://lema.rae.es/dpd/srv/search?id=BapzSnotjD6n0vZiTp (Check rules 4.14-4.18)
 https://cvc.cervantes.es/lengua/alhabla/museo_horrores/museo_011.htm
+
+## "Page Contents" box heading
+
+Translate "Page Contents" as "Contenidos de la página" ([background](https://github.com/w3c/wai-eval-overview/pull/6#pullrequestreview-265235370))
+
+<code>{% include_cached toc.html type="start" title="Contenidos de la página" class="full" %}</code>
 
 ## "Summary" box heading
 
