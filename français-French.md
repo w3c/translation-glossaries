@@ -7,7 +7,7 @@ use that as the best example of translation.
 
 ## Education and Outreach Working Group
 * Translation: @@
-* Background in [June 2019 e-mail thread](https://lists.w3.org/Archives/Public/public-wai-translations/2019Jun/0004.html)
+* Background in [June 2019 e-mail thread](https://lists.w3.org/Archives/Public/public-wai-translations/2019Jun/0004.html) and [follow-up e-mail](https://lists.w3.org/Archives/Public/public-wai-translations/2020Oct/0001.html)
 
 ## You
 * Use formal "vous" (not informal "tu").
