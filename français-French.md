@@ -2,7 +2,8 @@ Contents:
 * Education and Outreach Working Group
 * You
 
-**Note:** [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Pelase use that as the best example of translation.
+**Note:** [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please 
+use that as the best example of translation.
 
 ## Education and Outreach Working Group
 * Translation: @@
