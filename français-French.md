@@ -55,7 +55,7 @@ _Contents:_
 
 
 ## General terminology
-* [English term] -> [French translation]
+* [English term] -> [French term]
 * Working group -> Un groupe de travail
 * Patent policy -> Une politique de brevets
 * Deliverable -> Un livrable
@@ -102,7 +102,7 @@ _Contents:_
 * Tab Key -> "La touche [Tab]" or "La touche de tabulation"
 * Parsing -> L'analyse syntaxique
 * markup language -> Le langage de balisage
-* (HTML)tags -> Les balises HTML
+* (HTML) tags -> Les balises HTML
 * angle bracket -> Le chevron      (example: < or >)
 * Pause -> Mettre en pause
 * abbreviation -> Une abréviation
