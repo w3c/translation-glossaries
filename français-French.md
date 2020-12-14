@@ -5,7 +5,7 @@ _Contents:_
 **Note:** [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.
 
 ## Education and Outreach Working Group
-* Translation: Groupe de travail Éducation et Promotion
+* Translation: Groupe de travail Éducation et Promotion (EOWG)  
 * Background in [June 2019 e-mail thread](https://lists.w3.org/Archives/Public/public-wai-translations/2019Jun/0004.html) and [follow-up e-mail](https://lists.w3.org/Archives/Public/public-wai-translations/2020Oct/0001.html)
 
 ## You
