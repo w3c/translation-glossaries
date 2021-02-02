@@ -4,7 +4,7 @@
 * Check other translations in your language to see how similar words and concepts have been translated. See list of [All WAI/Web Accessibility Translations](https://www.w3.org/WAI/translations/). [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
 * Consider different dialects. Where possible, use words and phrases that will be best understood across different areas.
 
-**Glossaries:**
+**WAI Glossaries:**
 * **[General](https://github.com/w3c/translation-glossaries/blob/master/general.md) - applies to multiple languages**
 * [Deutsch (German)](https://github.com/w3c/translation-glossaries/blob/master/Deutsch-German.md)
 * [Español-castellano (Spanish)](https://github.com/w3c/translation-glossaries/blob/master/Castellano-Spanish.md)
