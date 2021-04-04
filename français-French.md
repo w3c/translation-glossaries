@@ -49,49 +49,49 @@ _Contents:_
 
 ## General terminology
 * [English term] -> [French term]
-* Working group -> Un groupe de travail
-* Patent policy -> Une politique de brevets
-* Deliverable -> Un livrable
-* Metadata -> Les métadonnées
-* Web page -> Une page Web
-* operating systems -> Les systèmes d'exploitation
-* Web browser -> Un navigateur Web
-* large print -> grands caractères
+* A tab -> Un onglet
+* abbreviation -> Une abréviation
+* acronym -> Un acronyme
+* angle bracket -> Le chevron      (example: < or >)
+* assistive technology -> Les technologies d'assistance
+* Audio Background -> Arrière-plan sonore
+* Audio Control -> Le contrôle du son
+* Audio Description -> Audio-description
 * braille -> Le braille
+* CAPTCHA -> CAPTCHA
+* Captions -> Les sous-titres
+* Contrast -> Le contraste
+* Deliverable -> Un livrable
+* field label -> L'étiquette de champ
+* full-screen window -> La fenêtre plein écran
+* glyphs -> Les glyphes
+* Headings -> Les en-têtes
+* HTML tags -> Les balises HTML
+* Images of Text -> Texte sous forme d'image
+* initialism -> Un sigle
+* justified text -> Le texte justifié
+* large print -> grands caractères
+* Line spacing -> L'espacement entre les lignes
+* Live -> En direct
+* markup language -> Le langage de balisage
+* Metadata -> Les métadonnées
+* non-text content -> Le contenu non textuel
+* operating systems -> Les systèmes d'exploitation
+* Parsing -> L'analyse syntaxique
+* Patent policy -> Une politique de brevets
+* Pause -> Mettre en pause
+* Prerecorded -> pré-enregistré
+* Resize text -> Le redimensionnement du texte
+* Sensory Characteristics -> Les caractéristiques sensorielles
+* Sign language -> La langue des signes
 * speech -> La synthèse vocale
 * symbols -> Les symboles
-* non-text content -> Le contenu non textuel
-* (text) input -> La saisie (de texte)
-* Time-Based Media -> Média temporel
-* CAPTCHA -> CAPTCHA
-* Text Formatting -> Le formatage du texte
-* assistive technology -> Les technologies d'assistance
-* Captions -> Les sous-titres
-* Audio Description -> Audio-description
-* Prerecorded -> pré-enregistré
-* Live -> En direct
-* Sign language -> La langue des signes
-* Sensory Characteristics -> Les caractéristiques sensorielles
-* Resize text -> Le redimensionnement du texte
-* Contrast -> Le contraste
-* Audio Control -> Le contrôle du son
-* Images of Text -> Texte sous forme d'image
-* Audio Background -> Arrière-plan sonore
-* glyphs -> Les glyphes
-* justified text -> Le texte justifié
-* Line spacing -> L'espacement entre les lignes
-* full-screen window -> La fenêtre plein écran
-* User interface -> L'interface utilisateur
-* Turn Off -> désactiver
-* Headings -> Les en-têtes
-* field label -> L'étiquette de champ
-* A tab -> Un onglet
 * Tab Key -> "La touche [Tab]" or "La touche de tabulation"
-* Parsing -> L'analyse syntaxique
-* markup language -> Le langage de balisage
-* (HTML) tags -> Les balises HTML
-* angle bracket -> Le chevron      (example: < or >)
-* Pause -> Mettre en pause
-* abbreviation -> Une abréviation
-* initialism -> Un sigle
-* acronym -> Un acronyme
+* Text Formatting -> Le formatage du texte
+* text input -> La saisie de texte
+* Time-Based Media -> Média temporel
+* Turn Off -> désactiver
+* User interface -> L'interface utilisateur
+* Web browser -> Un navigateur Web
+* Web page -> Une page Web
+* Working group -> Un groupe de travail
