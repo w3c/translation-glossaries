@@ -27,7 +27,7 @@ _Contents:_
 <br>->Translation: Groupe de travail sur les Règles pour l'accessibilité des contenus Web
 
 **Web Accessibility Initiative (WAI)**
-<br>->Translation: l'Initiative pour l'accessibilité du WEB (WAI)
+<br>->Translation: l'Initiative pour l'accessibilité du Web (WAI)
 
 **WCAG Working Group charter**
 <br>->Translation: la charte du groupe de travail sur les WCAG
@@ -38,41 +38,33 @@ _Contents:_
 **Web Content Accessibility Guidelines (WCAG) Overview**
 <br>->Translation: Vue d'ensemble des Règles pour l'accessibilité des contenus Web (WCAG)
 
-**Sufficient and Advisory Techniques in Understanding WCAG 2.0**
-<br>->Translation: Les techniques suffisantes et les techniques recommandées dans Comprendre les WCAG 2.0
-
 **WCAG 2.0 Supporting Documents**
 <br>->Translation: Les documents d'accompagnement des WCAG 2.0
 
 **WAI Resources**
 <br>->Translation: Les ressources de la WAI
 
-**Understanding Programmatically Determined**
-<br>->Translation: Comprendre déterminé par un programme informatique
-
-**Understanding Accessibility Support**
-<br>->Translation: Comprendre la compatibilité avec l'accessibilité
-
+**Programmatically Determined**
+<br>->Translation: Déterminé par un programme informatique
 
 ## General terminology
 * [English term] -> [French term]
 * Working group -> Un groupe de travail
 * Patent policy -> Une politique de brevets
 * Deliverable -> Un livrable
-* Metadata -> Les Métadonnées
-* Web page -> Une page web
+* Metadata -> Les métadonnées
+* Web page -> Une page Web
 * operating systems -> Les systèmes d'exploitation
-* browser -> Un navigateur
 * Web browser -> Un navigateur Web
 * large print -> grands caractères
 * braille -> Le braille
 * speech -> La synthèse vocale
 * symbols -> Les symboles
 * non-text content -> Le contenu non textuel
-* input -> La saisie
+* (text) input -> La saisie (de texte)
 * Time-Based Media -> Média temporel
 * CAPTCHA -> CAPTCHA
-* Formatting -> Le formatage
+* Text Formatting -> Le formatage du texte
 * assistive technology -> Les technologies d'assistance
 * Captions -> Les sous-titres
 * Audio Description -> Audio-description
@@ -81,7 +73,7 @@ _Contents:_
 * Sign language -> La langue des signes
 * Sensory Characteristics -> Les caractéristiques sensorielles
 * Resize text -> Le redimensionnement du texte
-* Contrast -> Le Contraste
+* Contrast -> Le contraste
 * Audio Control -> Le contrôle du son
 * Images of Text -> Texte sous forme d'image
 * Audio Background -> Arrière-plan sonore
@@ -90,15 +82,10 @@ _Contents:_
 * Line spacing -> L'espacement entre les lignes
 * full-screen window -> La fenêtre plein écran
 * User interface -> L'interface utilisateur
-* Keyboard -> Le clavier
-* Mouse -> La souris
-* Turn Off -> "Désactivation" or "désactiver"
-* Location -> La localisation
+* Turn Off -> désactiver
 * Headings -> Les en-têtes
-* Abbreviations -> Les abréviations
-* Pronunciation -> La prononciation
 * field label -> L'étiquette de champ
-* Tab -> L'onglet
+* A tab -> Un onglet
 * Tab Key -> "La touche [Tab]" or "La touche de tabulation"
 * Parsing -> L'analyse syntaxique
 * markup language -> Le langage de balisage
