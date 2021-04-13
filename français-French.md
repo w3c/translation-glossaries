@@ -1,19 +1,11 @@
 # Table of Contents
 
-MarkDownTOC
-===========
+@@ how to auto generate???
 
-_Contents:_
 * [Education and Outreach Working Group](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md#education-and-outreach-working-group)
 * [You](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md#you)
 
-**Note:** [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.
-
-## atest
-...
-
-## btest
-...
+**_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
 ## Education and Outreach Working Group
 * Translation: Groupe de travail Éducation et Promotion (EOWG)  
