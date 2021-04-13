@@ -1,11 +1,7 @@
 # Table of Contents
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
+MarkDownTOC
+===========
 
 _Contents:_
 * [Education and Outreach Working Group](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md#education-and-outreach-working-group)
