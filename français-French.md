@@ -1,3 +1,5 @@
+# Glossary Start
+
 _Contents:_
 * [Education and Outreach Working Group](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md#education-and-outreach-working-group)
 * [You](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md#you)
