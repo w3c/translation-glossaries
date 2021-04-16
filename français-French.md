@@ -1,6 +1,6 @@
 # Contents (Table of Contents)
 
-@@ how to auto generate TOC???
+@@ how to auto generate TOC frmo h2s below???
 
 **_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
