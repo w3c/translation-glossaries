@@ -6,6 +6,8 @@
 
 <hr>
 
+new!
+
 ## Accessibility Guidelines Working Group (AG WG)
 * **@@**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
