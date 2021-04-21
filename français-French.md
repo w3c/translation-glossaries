@@ -1,5 +1,7 @@
 # French Translation Glossary
 
+## Table of contents
+
 <!--ts-->
    * [French Translation Glossary](#french-translation-glossary)
       * [Accessibility Guidelines Working Group (AG WG)](#accessibility-guidelines-working-group-ag-wg)
