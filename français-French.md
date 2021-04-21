@@ -1,6 +1,40 @@
 # Contents (Table of Contents)
 
-@@ how to auto generate TOC frmo h2s below???
+<!--ts-->
+   * [Contents (Table of Contents)](#contents-table-of-contents)
+      * [Accessibility Guidelines Working Group (AG WG)](#accessibility-guidelines-working-group-ag-wg)
+      * [Accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.](#accessibility-involves-a-wide-range-of-disabilities-including-visual-auditory-physical-speech-cognitive-language-learning-and-neurological-disabilities)
+      * [advisory techniques](#advisory-techniques)
+      * [authoring tool, Authoring Tool Accessibility Guidelines (ATAG) Overview](#authoring-tool-authoring-tool-accessibility-guidelines-atag-overview)
+      * [cognitive disabilities](#cognitive-disabilities)
+      * [cognitive disabilities, cognitive and learning disabilities](#cognitive-disabilities-cognitive-and-learning-disabilities)
+      * [conformatio,n](#conformation)
+      * [Education and Outreach Working Group (EOWG) or Accessibility Education and Outreach Working Group (EOWG)](#education-and-outreach-working-group-eowg-or-accessibility-education-and-outreach-working-group-eowg)
+      * [failures, common failures](#failures-common-failures)
+      * [guidelines](#guidelines)
+      * [informative](#informative)
+      * [Level A, Level A, AA, AAA](#level-a-level-a-aa-aaa)
+      * [methodology](#methodology)
+      * [operable](#operable)
+      * [perceivable](#perceivable)
+      * [normative](#normative)
+      * [people with disabilities](#people-with-disabilities)
+      * [principles](#principles)
+      * [requirements](#requirements)
+      * [robust](#robust)
+      * [sufficient techniques](#sufficient-techniques)
+      * [success criteria, success criterion](#success-criteria-success-criterion)
+      * [standard, standards](#standard-standards)
+      * [understandable](#understandable)
+      * [user agent, User Agent Accessibility Guidelines (UAAG) Overview](#user-agent-user-agent-accessibility-guidelines-uaag-overview)
+      * [user, users](#user-users)
+      * [web content](#web-content)
+      * [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
+      * [you](#you)
+
+<!-- Added by: remibetin, at: Mer 21 avr 2021 18:44:50 CEST -->
+
+<!--te-->
 
 **_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
