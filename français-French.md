@@ -1,4 +1,4 @@
-# Contents (Table of Contents)
+# French Translation Glossary
 
 <!--ts-->
    * [Contents (Table of Contents)](#contents-table-of-contents)
