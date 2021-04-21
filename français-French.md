@@ -4,6 +4,7 @@
 
 <!--ts-->
    * [French Translation Glossary](#french-translation-glossary)
+      * [Table of contents](#table-of-contents)
       * [Accessibility Guidelines Working Group (AG WG)](#accessibility-guidelines-working-group-ag-wg)
       * [Accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.](#accessibility-involves-a-wide-range-of-disabilities-including-visual-auditory-physical-speech-cognitive-language-learning-and-neurological-disabilities)
       * [advisory techniques](#advisory-techniques)
@@ -34,7 +35,7 @@
       * [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
       * [you](#you)
 
-<!-- Added by: runner, at: Wed Apr 21 17:00:42 UTC 2021 -->
+<!-- Added by: runner, at: Wed Apr 21 17:19:22 UTC 2021 -->
 
 <!--te-->
 
