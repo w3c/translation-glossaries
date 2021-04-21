@@ -1,14 +1,14 @@
 # French Translation Glossary
 
 <!--ts-->
-   * [Contents (Table of Contents)](#contents-table-of-contents)
+   * [French Translation Glossary](#french-translation-glossary)
       * [Accessibility Guidelines Working Group (AG WG)](#accessibility-guidelines-working-group-ag-wg)
       * [Accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.](#accessibility-involves-a-wide-range-of-disabilities-including-visual-auditory-physical-speech-cognitive-language-learning-and-neurological-disabilities)
       * [advisory techniques](#advisory-techniques)
       * [authoring tool, Authoring Tool Accessibility Guidelines (ATAG) Overview](#authoring-tool-authoring-tool-accessibility-guidelines-atag-overview)
       * [cognitive disabilities](#cognitive-disabilities)
       * [cognitive disabilities, cognitive and learning disabilities](#cognitive-disabilities-cognitive-and-learning-disabilities)
-      * [conformatio,n](#conformation)
+      * [conformance](#conformance)
       * [Education and Outreach Working Group (EOWG) or Accessibility Education and Outreach Working Group (EOWG)](#education-and-outreach-working-group-eowg-or-accessibility-education-and-outreach-working-group-eowg)
       * [failures, common failures](#failures-common-failures)
       * [guidelines](#guidelines)
@@ -32,7 +32,7 @@
       * [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
       * [you](#you)
 
-<!-- Added by: remibetin, at: Mer 21 avr 2021 18:44:50 CEST -->
+<!-- Added by: runner, at: Wed Apr 21 17:00:42 UTC 2021 -->
 
 <!--te-->
 
