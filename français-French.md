@@ -60,6 +60,10 @@
 * **limitations cognitives**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
+## cognitive disabilities, cognitive and learning disabilities
+**@@**
+From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
+
 ## conformance
 * **conformité**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#conformance-to-wcag-2-1)
