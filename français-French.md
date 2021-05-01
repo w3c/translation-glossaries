@@ -1,5 +1,9 @@
 # French Translation Glossary 
 
+**_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
+
+See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/main/general.md)
+
 ## Table of contents
 
 <!--ts-->
@@ -35,8 +39,6 @@
       * [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
       * [you](#you)
 <!--te-->
-
-**_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
 <hr>
 
