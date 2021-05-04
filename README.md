@@ -9,4 +9,5 @@
 * [Deutsch (German)](https://github.com/w3c/translation-glossaries/blob/master/Deutsch-German.md)
 * [Español-castellano (Spanish)](https://github.com/w3c/translation-glossaries/blob/master/Castellano-Spanish.md)
 * [français (French)](https://github.com/w3c/translation-glossaries/blob/master/fran%C3%A7ais-French.md)
+* [Bahasa Indonesia](https://github.com/w3c/translation-glossaries/blob/main/Bahasa%20Indonesia.md)
 * [Others](https://www.w3.org/Consortium/Translation/#glossaries) - older glossaries in Arabic, Simplified Chinese, Traditional Chinese, German, and Korean. The Glossary of Terms for Device Independence in French, Italian, Polish, Simplified Chinese, and Traditional Chinese.
