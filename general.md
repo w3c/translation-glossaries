@@ -1,11 +1,22 @@
 Contents:
-* Acronyms W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
+* W3C WAI
+* Acronyms WCAG, ARIA, EOWG, etc.
 * Capitalization - titles and headings
 * Capitalize W3C terms
 * You
 <hr>
 
-## Acronyms W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
+## W3C WAI
+
+Guidance on using "W3C" and "the Web Consortium" instead of "World Wide Consortium" will be updated in 2021.
+
+For now:
+* When "W3C" is not with "World Wide Consortium", treat it as a stand-alone name, not an acronym. Do not write it out in the tranlsation if it is not written out in the English version.
+* Treat "W3C", "W3C WAI", and "WAI" as a brand, therefore as a proper noun. In gender-based languages, don't use an article.
+
+Background is in this [French translation thread](https://github.com/w3c/translation-glossaries/issues/24#issuecomment-826778988).
+
+## Acronyms WCAG, ARIA, EOWG, etc.
 
 For W3C Working Group names and Technical Reports, translate the words written out. Leave the acronym in English. For example:
 
