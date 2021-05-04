@@ -8,11 +8,11 @@ Contents:
 
 ## W3C WAI
 
-Guidance on using "W3C" and "the Web Consortium" instead of "World Wide Consortium" will be updated in 2021.
+Guidance on using "W3C" and "the Web Consortium" instead of "World Wide Consortium" will be updated later in 2021.
 
 For now:
-* When "W3C" is not with "World Wide Consortium", treat it as a stand-alone name, not an acronym. Do not write it out in the tranlsation if it is not written out in the English version.
-* Treat "W3C", "W3C WAI", and "WAI" as a brand, therefore as a proper noun. In gender-based languages, don't use an article.
+* When "W3C" is not with "World Wide Consortium", treat "W3C" as a stand-alone name, not an acronym. Do not write it out in the transaltion  if it is not written out in the English version.
+* Treat "W3C", "W3C WAI", and "WAI" as a proper noun. In gender-based languages, don't use an article.
 
 Background is in this [French translation thread](https://github.com/w3c/translation-glossaries/issues/24#issuecomment-826778988).
 
