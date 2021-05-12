@@ -1,23 +1,28 @@
 Contents:
-* Acronyms W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
+* W3C WAI
+* WCAG, ARIA, EOWG, etc.
 * Capitalization - titles and headings
 * Capitalize W3C terms
 * You
 <hr>
 
-## Acronyms W3C, WAI, HTML, WCAG, ARIA, EOWG, etc.
+## W3C WAI
+
+Guidance on using "W3C" and "the Web Consortium" will be updated later in 2021.
+
+For now:
+* When "W3C" is not with "World Wide Web Consortium", treat "W3C" as a stand-alone name, not an acronym. Do not write it out in the translation if it is not written out in the English version.
+* Treat "W3C", "W3C WAI", and "WAI" as a proper noun. In most gender-based languages, don't use an article.
+
+Background is in this [French translation thread](https://github.com/w3c/translation-glossaries/issues/24#issuecomment-826778988).
+
+## Acronyms WCAG, ARIA, EOWG, etc.
 
 For W3C Working Group names and Technical Reports, translate the words written out. Leave the acronym in English. For example:
 
  _in English:_ Web Content Accessibility Guidelines (WCAG)
 
 _in German:_ Richtlinien für barrierefreie Webinhalte (WCAG)
-
-## Capitalization - titles and headings
-
-W3C documents use headline-style capitalization (where every major word is capitalized) for document titles. Some also use headline-style capitalization for headings within the document (including h1, h2, etc.).
-
-Translations should use the proper capitalization for your language.
 
 ## Capitalize W3C terms
 
@@ -29,6 +34,11 @@ This includes:
 
 Note: W3C Members are organizations. Individuals in groups are "participants" in a group (not "members" of a group).
 
+## Capitalization - titles and headings
+
+W3C documents use headline-style capitalization (where every major word is capitalized) for document titles. Some also use headline-style capitalization for headings within the document (including h1, h2, etc.).
+
+Translations should use the proper capitalization for your language.
 ## You
 * Use formal form of "you".
 * If you think the informal "you" is better in your language, please open a GitHub issue for gathering input from others.
