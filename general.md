@@ -1,6 +1,7 @@
 Contents:
 * W3C WAI
-* WCAG, ARIA, EOWG, etc.
+* Acronyms WCAG, ARIA, EOWG, etc.
+* WCAG 2 and WCAG 3 are different
 * Capitalization - titles and headings
 * Capitalize W3C terms
 * You
@@ -23,6 +24,11 @@ For W3C Working Group names and Technical Reports, translate the words written o
  _in English:_ Web Content Accessibility Guidelines (WCAG)
 
 _in German:_ Richtlinien für barrierefreie Webinhalte (WCAG)
+
+## WCAG 2 and WCAG 3 are different
+
+* WCAG 3 = W3C Accessibility Guidelines
+* WCAG 2 = Web Content Accessibility Guidelines
 
 ## Capitalize W3C terms
 
