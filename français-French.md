@@ -135,7 +135,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * **standard, standards** or **norme, normes**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#background-on-wcag-2)
 norme = standard de jure, standard = standard de facto
-norme ISO and W3C standard
+norme ISO and standard W3C
 
 ## understandable
 * **compréhensible**
