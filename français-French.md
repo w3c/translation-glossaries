@@ -1,6 +1,6 @@
 # French Translation Glossary 
 
-**_Note:_ [Règles pour l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
+**_Note:_ [Règles pour l’accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) is a well-vetted W3C Authorized Translation. Please match the translation of any words and phrases that are in that WCAG translation.**
 
 See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/main/general.md)
 
@@ -43,11 +43,11 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 <hr>
 
 ## Accessibility Guidelines Working Group (AG WG)
-* **groupe de travail sur les Règles pour l'accessibilité des contenus Web**
+* **groupe de travail sur les Règles pour l’accessibilité des contenus Web**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## Accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
-* **L'accessibilité couvre un large spectre de limitations fonctionnelles, telles que les limitations visuelles, auditives, physiques, cognitives, neurologiques ou encore, celles liées à la parole, au langage ou à l'apprentissage.**
+* **L’accessibilité couvre un large spectre de limitations fonctionnelles, telles que les limitations visuelles, auditives, physiques, cognitives, neurologiques ou encore celles liées à la parole, au langage ou à l’apprentissage.**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#background-on-wcag-2)
 
 ## advisory techniques
@@ -55,7 +55,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance)
 
 ## authoring tool, Authoring Tool Accessibility Guidelines (ATAG) Overview
-* **outil d'édition, Vue d'ensemble des Règles pour l'accessibilité des outils d'édition (ATAG)**
+* **outil d’édition, Vue d’ensemble des Règles pour l’accessibilité des outils d’édition (ATAG)**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## cognitive disabilities
@@ -63,7 +63,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## cognitive disabilities, cognitive and learning disabilities
-* **@@**
+* **déficiences cognitives, déficiences cognitives et de capacité d’apprentissage**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## conformance
@@ -71,7 +71,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#conformance-to-wcag-2-1)
 
 ## Education and Outreach Working Group (EOWG) or Accessibility Education and Outreach Working Group (EOWG)
-* **Groupe de travail Éducation et Promotion (EOWG)**  or @@
+* **Groupe de travail Éducation et Promotion (EOWG)**  or **Groupe de travail Éducation et Valorisation (EOWG)**
 * Background in [June 2019 e-mail thread](https://lists.w3.org/Archives/Public/public-wai-translations/2019Jun/0004.html) and [follow-up e-mail](https://lists.w3.org/Archives/Public/public-wai-translations/2020Oct/0001.html)
 
 ## failures, common failures
@@ -91,7 +91,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## methodology
-* **@@**
+* **méthodologie**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## operable
@@ -132,15 +132,17 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance)
 
 ## standard, standards
-* **standard, standards**
+* **standard, standards** or **norme, normes**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/) in [WCAG 2](https://www.w3.org/TR/WCAG21/#background-on-wcag-2)
+norme = standard de jure (by governemental bodies: AFNOR, BSI, DIN… and ISO), standard = standard de facto
+norme ISO and standard W3C
 
 ## understandable
 * **compréhensible**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## user agent, User Agent Accessibility Guidelines (UAAG) Overview
-* **agent utilisateur, Vue d'ensemble des Règles pour l'accessibilité des agents utilisateurs (UAAG)**
+* **agent utilisateur, Vue d’ensemble des Règles pour l’accessibilité des agents utilisateurs (UAAG)**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## user, users
@@ -152,7 +154,7 @@ See also: [General glossary](https://github.com/w3c/translation-glossaries/blob/
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## Web Content Accessibility Guidelines (WCAG)
-* **Règles pour l'accessibilité des contenus Web (WCAG)**
+* **Règles pour l’accessibilité des contenus Web (WCAG)**
 * From [WCAG 20 Authorized Translation](https://www.w3.org/Translations/WCAG20-fr/)
 
 ## you
