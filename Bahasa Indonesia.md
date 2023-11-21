@@ -24,7 +24,9 @@
 | accessible | aksesibel |
 | Accessible Platform Architectures Working Group | Kelompok Kerja Arsitektur Platform yang Aksesibel |
 | Accessible Rich Internet Applications | Aplikasi Internet Kaya yang Aksesibel (ARIA) |
+| acronym | singkatan |
 | Adaptable | Dapat Menyesuaikan |
+| alt text | alt text |
 | applicability | penerapan |
 | application programming interface | antarmuka pemrograman aplikasi (API) |
 | assistive technologies | teknologi pendukung |
@@ -38,7 +40,7 @@
 | English | Bahasa Indonesia |
 |---|---|
 | bandwitdh | bandwidth |
-| blind | tunanetra |
+| blind | disabilitas netra |
 | breadcrumbs | jejak roti |
 | brightness | tingkat kecerahan |
 
@@ -50,10 +52,11 @@
 | change log | catatan perubahan |
 | co-funded | didanai bersama |
 | code editor | editor kode |
-| cognitive disability | tunagrahita |
 | configuration | pengaturan |
+| cognitive disability | disabilitas kognitif |
 | content management system | sistem manajemen konten (CMS) |
 | cookies | kukis |
+| copy | salin |
 | CSS styles | format tampilan CSS |
 | custom-made | dirancang khusus |
 | customizable | dapat disesuaikan |
@@ -63,10 +66,11 @@
 
 | English | Bahasa Indonesia |
 |---|---|
-| deaf | tunarungu |
+| deaf | disabilitas rungu |
 | default | bawaan |
 | design | desain, rancang |
 | designer | desainer |
+| desktop | desktop |
 | developer | pengembang, developer |
 | dexterity | kecekatan |
 | disabilities | disabilitas |
@@ -81,6 +85,7 @@
 | Education and Outreach Working Group | Kelompok Kerja Edukasi dan Pendampingan |
 | E-mail | Email |
 | embedded | disematkan |
+| error | eror |
 | Evaluation and Report Language | Bahasa Evaluasi dan Laporan (EARL) |
 | External Site | Situs Eksternal |
 
@@ -94,11 +99,20 @@
 | font | font |
 | form | isian |
 
+### G
+
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| getting started | | memulai |
+
 ### H
 
-| English | Bahasa Indonesia |
-|---|---|
-| hardware | perangkat keras |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| hardware | "motherboard is a hardware" | perangkat keras |
+| header | "provide headers to identify groups of information" | judul |
+| headphone | | *headphone* |
+| headset | | *headset*, perangkat jemala |
 
 ### I
 
@@ -116,6 +130,7 @@
 
 | English | Bahasa Indonesia |
 |---|---|
+| laptop | laptop |
 | layout | tata letak, peletakan |
 | learning disabilities | kesulitan belajar |
 | link | tautan |
@@ -124,13 +139,14 @@
 
 ### M
 
-| English | Bahasa Indonesia |
-|---|---|
-| media player | pemutar media |
-| mobile devices | perangkat seluler |
-| mobile phones | ponsel |
-| mouth stick | tongkat mulut |
-| mouse | tetikus |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| markup | "Use semantic HTML markup for structures such as headings" | markup |
+| media player | | pemutar media |
+| mobile devices | | perangkat seluler |
+| mobile phones | | ponsel |
+| mouth stick | | tongkat mulut |
+| mouse | | tetikus |
 
 ### N
 
@@ -155,6 +171,7 @@
 
 | English | Bahasa Indonesia |
 |---|---|
+| paste | tempel |
 | Perceivable | Dapat Dipersepsikan |
 | plug-ins | plugin |
 | people with disabilities | penyandang disabilitas |
@@ -181,14 +198,21 @@
 
 | English | Bahasa Indonesia |
 |---|---|
+| screen magnifier | pembesar layar |
 | screen readers | pembaca layar |
 | script | skrip |
-| scroll | menggeser layar |
+| scroll | menggulir |
 | search engine | mesin pencarian |
+| search field | bidang pencarian |
+| semantic HTML | HTML semantik |
 | skip to content | loncat ke konten |
 | social network | jejaring sosial |
 | software | perangkat lunak |
+| source code | kode program |
 | supports | mendukung |
+| speaker recognition | pengenalan pembicara |
+| speech-to-text | ucapan-ke-teks |
+| speech recognition | pengenalan ucapan |
 | speech input | input suara |
 | switch device | perangkat pengalihan |
 | Synthesized speech | ujaran sintesis |
@@ -199,6 +223,7 @@
 |---|---|
 | Task-force | Satuan tugas, satgas |
 | text-to-speech | teknologi teks-ke-suara, sulih suara |
+| text alternatives | alternatif teks |
 | Timed Text Markup Language | Bahasa Penanda Teks Berjadwal (TTML) |
 | tips | kiat |
 | touch-pad | papan sentuh |
@@ -210,7 +235,7 @@
 
 | English | Bahasa Indonesia |
 |---|---|
-| Understandable | Dapat Dipahami |
+| Understandable | Dapat Dimengerti |
 | User Agent Accessibility Guidelines | Pedoman Aksesibilitas Agen Pengguna (UAAG) |
 | user needs | kebutuhan pengguna |
 | user story | kisah pengguna |
