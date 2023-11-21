@@ -17,7 +17,7 @@
 
 ### A
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Accessibility | Aksesibilitas |
 | Accessibility Conformance Testing | Uji Kesesuaian Aksesibilitas (ACT) |
@@ -35,7 +35,7 @@
 
 ### B
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | bandwitdh | bandwidth |
 | blind | tunanetra |
@@ -44,7 +44,7 @@
 
 ### C
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | captions | teks, subtitel, sulih teks |
 | change log | catatan perubahan |
@@ -57,11 +57,11 @@
 | CSS styles | format tampilan CSS |
 | custom-made | dirancang khusus |
 | customizable | dapat disesuaikan |
-| customization | kustomisasi, penyesuaian |
+| customization | penyesuaian |
 
 ### D
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | deaf | tunarungu |
 | default | bawaan |
@@ -75,7 +75,7 @@
 
 ### E
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | education | pendidikan |
 | Education and Outreach Working Group | Kelompok Kerja Edukasi dan Pendampingan |
@@ -86,7 +86,7 @@
 
 ### F
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | feature | fitur |
 | feedback | umpan balik |
@@ -96,25 +96,25 @@
 
 ### H
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | hardware | perangkat keras |
 
 ### I
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Input Modalities | Modalitas Input |
 
 ### K
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | keyboard | kibor |
 
 ### L
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | layout | tata letak, peletakan |
 | learning disabilities | kesulitan belajar |
@@ -124,7 +124,7 @@
 
 ### M
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | media player | pemutar media |
 | mobile devices | perangkat seluler |
@@ -134,7 +134,7 @@
 
 ### N
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Navigable | Dapat Dinavigasikan |
 | native apps | aplikasi natif |
@@ -143,7 +143,7 @@
 
 ### O
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | offline | luar jaringan (luring) |
 | Older people | lansia |
@@ -153,7 +153,7 @@
 
 ### P
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Perceivable | Dapat Dipersepsikan |
 | plug-ins | plugin |
@@ -164,13 +164,13 @@
 
 ### Q
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | quick reference | referensi singkat |
 
 ### R
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Readability | Keterbacaan |
 | remote | jarak jauh |
@@ -179,7 +179,7 @@
 
 ### S
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | screen readers | pembaca layar |
 | script | skrip |
@@ -195,7 +195,7 @@
 
 ### T
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Task-force | Satuan tugas, satgas |
 | text-to-speech | teknologi teks-ke-suara, sulih suara |
@@ -208,7 +208,7 @@
 
 ### U
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | Understandable | Dapat Dipahami |
 | User Agent Accessibility Guidelines | Pedoman Aksesibilitas Agen Pengguna (UAAG) |
@@ -218,14 +218,14 @@
 
 ### V
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | viewport | ukuran layar |
 | voice recognition | pengenalan suara |
 
 ### W
 
-| Bahasa Inggris | Bahasa Indonesia |
+| English | Bahasa Indonesia |
 |---|---|
 | WAI Expanding Access Project | Proyek Perluasan Akses WAI |
 | web | web |
