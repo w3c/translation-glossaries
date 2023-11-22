@@ -55,7 +55,7 @@
 | configuration | pengaturan |
 | cognitive disability | disabilitas kognitif |
 | content management system | sistem manajemen konten (CMS) |
-| cookies | kukis |
+| cookies | kuki |
 | copy | salin |
 | CSS styles | format tampilan CSS |
 | custom-made | dirancang khusus |
@@ -96,7 +96,7 @@
 | feature | fitur |
 | feedback | umpan balik |
 | file | berkas |
-| font | font |
+| font | fon |
 | form | isian |
 
 ### G
@@ -141,7 +141,7 @@
 
 | English | Use context | Bahasa Indonesia |
 |---|---|---|
-| markup | "Use semantic HTML markup for structures such as headings" | markup |
+| markup | "Use semantic HTML markup for structures such as headings" | markah |
 | media player | | pemutar media |
 | mobile devices | | perangkat seluler |
 | mobile phones | | ponsel |
@@ -162,7 +162,7 @@
 | English | Bahasa Indonesia |
 |---|---|
 | offline | luar jaringan (luring) |
-| Older people | lansia |
+| Older people | lanjut usia (lansia) |
 | on-screen | dalam-layar |
 | online | dalam jaringan (daring) |
 | Operable | Dapat Dioperasikan |
@@ -230,6 +230,7 @@
 | Track | Trek |
 | transcoding | konversi transcoding |
 | transcript | transkripsi |
+| typeface | rupa huruf |
 
 ### U
 
