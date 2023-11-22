@@ -23,7 +23,7 @@
 | Accessibility Conformance Testing | Uji Kesesuaian Aksesibilitas (ACT) |
 | accessible | aksesibel |
 | Accessible Platform Architectures Working Group | Kelompok Kerja Arsitektur Platform yang Aksesibel |
-| Accessible Rich Internet Applications | Aplikasi Internet Kaya yang Aksesibel (ARIA) |
+| Accessible Rich Internet Applications | Aplikasi Internet yang Kaya dan Aksesibel (ARIA) |
 | acronym | singkatan |
 | Adaptable | Dapat Menyesuaikan |
 | alt text | alt text |
@@ -32,6 +32,7 @@
 | assistive technologies | teknologi pendukung |
 | attention deficit hyperactivity disorder | Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) |
 | attribution | atribusi |
+| authenticate | otentikasi |
 | Authoring Tool Accessibility Guidelines | Pedoman Aksesibilitas Sarana Penulisan (ATAG) |
 | authoring tools | sarana penulisan |
 
@@ -53,6 +54,7 @@
 | change log | | catatan perubahan |
 | co-funded | | didanai bersama |
 | code editor | | editor kode |
+| compatible | kompatibel |
 | configuration | | pengaturan |
 | cognitive disability | | disabilitas kognitif |
 | content management system | | sistem manajemen konten (CMS) |
@@ -119,7 +121,8 @@
 
 | English | Bahasa Indonesia |
 |---|---|
-| Input Modalities | Modalitas Input |
+| input modalities | modalitas input |
+| input assistance | dukungan penginputan |
 
 ### K
 
@@ -161,20 +164,20 @@
 
 ### O
 
-| English | Bahasa Indonesia |
-|---|---|
-| offline | luar jaringan (luring) |
-| Older people | lanjut usia (lansia) |
-| on-screen | dalam-layar |
-| online | dalam jaringan (daring) |
-| Operable | Dapat Dioperasikan |
+| English | | Bahasa Indonesia |
+|---|---|---|
+| offline | | luar jaringan (luring) |
+| Older people | | lanjut usia (lansia) |
+| on-screen | "on-screen keyboard" | virtual |
+| online | | dalam jaringan (daring) |
+| Operable | | Dapat Dioperasikan |
 
 ### P
 
 | English | Bahasa Indonesia |
 |---|---|
 | paste | tempel |
-| Perceivable | Dapat Dipersepsikan |
+| Perceivable | Dapat Diterima Indra |
 | plug-ins | plugin |
 | people with disabilities | penyandang disabilitas |
 | pop-up | sembulan |
@@ -195,6 +198,7 @@
 | remote | jarak jauh |
 | repetitive stress injuries (RSI) | cedera regangan berulang (RSI) |
 | resource | sumber informasi |
+| robust | kukuh |
 
 ### S
 
@@ -206,6 +210,7 @@
 | scroll | menggulir |
 | search engine | mesin pencarian |
 | search field | bidang pencarian |
+| self-service terminals | terminal mandiri |
 | semantic HTML | HTML semantik |
 | shortcut | pintasan |
 | skip to content | loncat ke konten |
@@ -216,8 +221,8 @@
 | speaker recognition | pengenalan pembicara |
 | speech-to-text | ucapan-ke-teks |
 | speech recognition | pengenalan ucapan |
-| speech input | input suara |
-| switch device | perangkat pengalihan |
+| speech input | input via ucapan |
+| switch device | perangkat sakelar |
 | Synthesized speech | ujaran sintesis |
 
 ### T
