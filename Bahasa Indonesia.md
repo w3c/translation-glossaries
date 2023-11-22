@@ -46,21 +46,22 @@
 
 ### C
 
-| English | Bahasa Indonesia |
-|---|---|
-| captions | teks, subtitel, sulih teks |
-| change log | catatan perubahan |
-| co-funded | didanai bersama |
-| code editor | editor kode |
-| configuration | pengaturan |
-| cognitive disability | disabilitas kognitif |
-| content management system | sistem manajemen konten (CMS) |
-| cookies | kuki |
-| copy | salin |
-| CSS styles | format tampilan CSS |
-| custom-made | dirancang khusus |
-| customizable | dapat disesuaikan |
-| customization | penyesuaian |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| captions | When both including subtitle and visual description of a video | takarir |
+| captions | When referring to only subtitle | subtitel |
+| change log | | catatan perubahan |
+| co-funded | | didanai bersama |
+| code editor | | editor kode |
+| configuration | | pengaturan |
+| cognitive disability | | disabilitas kognitif |
+| content management system | | sistem manajemen konten (CMS) |
+| cookies | | kuki |
+| copy | | salin |
+| CSS styles | | format tampilan CSS |
+| custom-made | | dirancang khusus |
+| customizable | | dapat disesuaikan |
+| customization | | penyesuaian |
 
 ### D
 
@@ -145,6 +146,7 @@
 | media player | | pemutar media |
 | mobile devices | | perangkat seluler |
 | mobile phones | | ponsel |
+| modifier keys | | tombol kombinasi, tombol pengubah |
 | mouth stick | | tongkat mulut |
 | mouse | | tetikus |
 
@@ -205,6 +207,7 @@
 | search engine | mesin pencarian |
 | search field | bidang pencarian |
 | semantic HTML | HTML semantik |
+| shortcut | pintasan |
 | skip to content | loncat ke konten |
 | social network | jejaring sosial |
 | software | perangkat lunak |
@@ -222,7 +225,7 @@
 | English | Bahasa Indonesia |
 |---|---|
 | Task-force | Satuan tugas, satgas |
-| text-to-speech | teknologi teks-ke-suara, sulih suara |
+| text-to-speech | teks-ke-ucapan |
 | text alternatives | alternatif teks |
 | Timed Text Markup Language | Bahasa Penanda Teks Berjadwal (TTML) |
 | tips | kiat |
