@@ -124,6 +124,8 @@
 |---|---|
 | input modalities | modalitas input |
 | input assistance | dukungan penginputan |
+| International Electrotechnical Commission (IEC) | Komisi Elektroteknik Internasional (IEC) |
+| International Organizations for Standardization (ISO) | Organisasi Standardisasi Internasional |
 | Internet of Things (IoT) | Internet untuk Segala (IoT) |
 
 ### K
@@ -248,6 +250,7 @@
 | English | Bahasa Indonesia |
 |---|---|
 | Understandable | Dapat Dimengerti |
+| United Nations Convention on the Rights of Persons with Disabilities (UN CRPD) | Konvensi Perserikatan Bangsa-Bangsa tentang Hak-hak Penyandang Disabilitas (CRPD PBB)
 | User Agent Accessibility Guidelines | Pedoman Aksesibilitas Agen Pengguna (UAAG) |
 | user needs | kebutuhan pengguna |
 | user story | kisah pengguna |
