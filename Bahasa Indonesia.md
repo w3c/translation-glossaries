@@ -30,6 +30,7 @@
 | applicability | penerapan |
 | application programming interface | antarmuka pemrograman aplikasi (API) |
 | assistive technologies | teknologi pendukung |
+| at a glance | selayang pandang |
 | attention deficit hyperactivity disorder | Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) |
 | attribution | atribusi |
 | authenticate | otentikasi |
@@ -123,6 +124,7 @@
 |---|---|
 | input modalities | modalitas input |
 | input assistance | dukungan penginputan |
+| Internet of Things (IoT) | Internet untuk Segala (IoT) |
 
 ### K
 
@@ -149,6 +151,7 @@
 | media player | | pemutar media |
 | mobile devices | | perangkat seluler |
 | mobile phones | | ponsel |
+| mobile web app | | aplikasi web pada perangkat seluler |
 | modifier keys | | tombol kombinasi, tombol pengubah |
 | mouth stick | | tongkat mulut |
 | mouse | | tetikus |
