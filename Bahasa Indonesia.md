@@ -108,6 +108,8 @@
 | English | Use context | Bahasa Indonesia |
 |---|---|---|
 | getting started | | memulai |
+| guidance | | panduan |
+| guidelines | | pedoman |
 
 ### H
 
