@@ -52,6 +52,7 @@
 |---|---|---|
 | captions | When both including subtitle and visual description of a video | takarir |
 | captions | When referring to only subtitle | subtitel |
+| Cascading Style Sheet (CSS) | | Cascading Style Sheet - Lembar Gaya Kaskade (CSS) |
 | change log | | catatan perubahan |
 | co-funded | | didanai bersama |
 | code editor | | editor kode |
@@ -91,6 +92,7 @@
 | embedded | disematkan |
 | error | eror |
 | Evaluation and Report Language | Bahasa Evaluasi dan Laporan (EARL) |
+| browser extension | ekstensi browser |
 | External Site | Situs Eksternal |
 
 ### F
@@ -119,6 +121,7 @@
 | header | "provide headers to identify groups of information" | judul |
 | headphone | | *headphone* |
 | headset | | *headset*, perangkat jemala |
+Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hiperteks (HTML) |
 
 ### I
 
@@ -239,7 +242,7 @@
 | Task-force | Satuan tugas, satgas |
 | text-to-speech | teks-ke-ucapan |
 | text alternatives | alternatif teks |
-| Timed Text Markup Language | Bahasa Penanda Teks Berjadwal (TTML) |
+| Timed Text Markup Language (TTML) | Timed Text Markup Language - Bahasa Markah Teks Terjadwal (TTML) (TTML) |
 | tips | kiat |
 | touch-pad | papan sentuh |
 | Track | Trek |
@@ -275,7 +278,7 @@
 | web browser | browser web |
 | Web Content Accessibility Guidelines | Pedoman Aksesibilitas Konten Web (WCAG) |
 | web tools | perangkat web |
-| Web Video Text Track Format | Format Trek Teks Video Web |
+| Web Video Text Track (WebVTT) | Web Video Text Tracks - Trek Teks pada Video Web (WebVTT) |
 | website | situs web |
 | Website Accessibility Conformance Evaluation Methodology | Metodologi Evaluasi Kesesuaian Aksesibilitas Situs Web (WCAG-EM) |
 | windows | jendela |
