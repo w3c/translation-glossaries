@@ -5,6 +5,7 @@
 - we're using the formal form (e.g. "You" should be "Anda")
 - as we are aiming for accessibility when translating terms, aim for familiarity instead of persisting with formal but rarely used and rarely known Bahasa Indonesia terms (e.g. "World Wide Web" over "Waring Wera Wanua", "Email" over "Surel" or "Posel", "Subtitel" over "Takarir")
 - when referring to "the ability to access" due to "accessibility", we use "aksesibel" instead of "mudah/dapat diakses", but when we wanted to point out that it simply can be accessed, we use "mudah/dapat diakses"---the distinction helps reader understand the relevance of accessibility.
+- all keyboard keys will be called according to the name that’s written on the keyboard for example: “Enter”, “Shift”, “Control”. An exception is “Spacebar” which will be translated as “Tombol spasi” since the name is not commonly written in the key and it’s easier to understand and it is common to call the key as such.
 
 ## References
 
@@ -61,6 +62,7 @@
 | configuration | | pengaturan |
 | cognitive disability | | disabilitas kognitif |
 | content management system | | sistem manajemen konten (CMS) |
+| control | "Provide controls for content that starts automatically" | control |
 | cookies | | kuki |
 | copy | | salin |
 | CSS styles | | format tampilan CSS |
@@ -81,6 +83,8 @@
 | dexterity | kecekatan |
 | disabilities | disabilitas |
 | Distinguishable | Dapat Dibedakan |
+| Document Object Model (DOM) | Document Object Model - Model Objek Dokumen (DOM) |
+| DOM tree | pohon DOM |
 | download | unduh |
 
 ### E
@@ -112,6 +116,7 @@
 | English | Use context | Bahasa Indonesia |
 |---|---|---|
 | getting started | | memulai |
+| Graphical User Interface (GUI) | | Antarmuka Pengguna Grafis (GUI) |
 | guidance | | panduan |
 | guidelines | | pedoman |
 
@@ -176,6 +181,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | English | Bahasa Indonesia |
 |---|---|
 | Navigable | Dapat Dinavigasikan |
+| navigation | navigasi |
 | native apps | aplikasi natif |
 | Non-Web Information and Communications Technologies | Teknologi Informasi dan Komunikasi Non-Web |
 | non-text contents | kontan nonteks |
@@ -238,13 +244,14 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | social network | | jejaring sosial |
 | software | | perangkat lunak |
 | source code | | kode program |
-| sub heading | | subjudul |
-| supports | | mendukung |
 | speaker recognition | | pengenalan pembicara |
 | speech-to-text | | ucapan-ke-teks |
 | speech recognition | | pengenalan ucapan |
 | speech input | | input via ucapan |
 | states | "Unique styles for different link states" | kondisi |
+| sub heading | | subjudul |
+| subtitle | | subtitel |
+| supports | | mendukung |
 | switch device | | perangkat sakelar |
 | Synthesized speech | | ujaran sintesis |
 
