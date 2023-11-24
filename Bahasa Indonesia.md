@@ -52,6 +52,7 @@
 |---|---|---|
 | captions | When both including subtitle and visual description of a video | takarir |
 | captions | When referring to only subtitle | subtitel |
+| carousels | | korsel |
 | Cascading Style Sheet (CSS) | | Cascading Style Sheet - Lembar Gaya Kaskade (CSS) |
 | change log | | catatan perubahan |
 | co-funded | | didanai bersama |
@@ -87,7 +88,7 @@
 | English | Bahasa Indonesia |
 |---|---|
 | education | pendidikan |
-| Education and Outreach Working Group | Kelompok Kerja Edukasi dan Pendampingan |
+| Education and Outreach Working Group (EWOG) | Kelompok Kerja Edukasi dan Pendampingan (EWOG) |
 | E-mail | Email |
 | embedded | disematkan |
 | error | eror |
@@ -97,13 +98,14 @@
 
 ### F
 
-| English | Bahasa Indonesia |
-|---|---|
-| feature | fitur |
-| feedback | umpan balik |
-| file | berkas |
-| font | fon |
-| form | isian |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| feature | | fitur |
+| feedback | | umpan balik |
+| field | "use an asterisk in addition to color to indicate required form fields" | bidang |
+| file | | berkas |
+| font | | fon |
+| form | | isian |
 
 ### G
 
@@ -118,15 +120,20 @@
 | English | Use context | Bahasa Indonesia |
 |---|---|---|
 | hardware | "motherboard is a hardware" | perangkat keras |
-| header | "provide headers to identify groups of information" | judul |
+| header | "Position and presentation of main elements, such as header and navigation can be changed to make best use of the space." | tajuk |
+| heading | | judul |
 | headphone | | *headphone* |
 | headset | | *headset*, perangkat jemala |
+| hover | "change the appearance of links on mouse hover" | disoroti |
 Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hiperteks (HTML) |
 
 ### I
 
 | English | Bahasa Indonesia |
 |---|---|
+| image sliders | gambar bergeser |
+| Information Society Technologies (IST) | 
+| input fields | bidang input |
 | input modalities | modalitas input |
 | input assistance | dukungan penginputan |
 | International Electrotechnical Commission (IEC) | Komisi Elektroteknik Internasional (IEC) |
@@ -146,6 +153,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | laptop | laptop |
 | layout | tata letak, peletakan |
 | learning disabilities | kesulitan belajar |
+| legibility | kejelasan huruf, legibilitas |
 | link | tautan |
 | live video | video siaran langsung |
 | luminance contrast ratio | rasio kontras pencahayaan |
@@ -170,6 +178,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | Navigable | Dapat Dinavigasikan |
 | native apps | aplikasi natif |
 | Non-Web Information and Communications Technologies | Teknologi Informasi dan Komunikasi Non-Web |
+| non-text contents | kontan nonteks |
 | notification | notifikasi |
 
 ### O
@@ -212,28 +221,32 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 
 ### S
 
-| English | Bahasa Indonesia |
-|---|---|
-| screen magnifier | pembesar layar |
-| screen readers | pembaca layar |
-| script | skrip |
-| scroll | menggulir |
-| search engine | mesin pencarian |
-| search field | bidang pencarian |
-| self-service terminals | terminal mandiri |
-| semantic HTML | HTML semantik |
-| shortcut | pintasan |
-| skip to content | loncat ke konten |
-| social network | jejaring sosial |
-| software | perangkat lunak |
-| source code | kode program |
-| supports | mendukung |
-| speaker recognition | pengenalan pembicara |
-| speech-to-text | ucapan-ke-teks |
-| speech recognition | pengenalan ucapan |
-| speech input | input via ucapan |
-| switch device | perangkat sakelar |
-| Synthesized speech | ujaran sintesis |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| screen magnifier | | pembesar layar |
+| screen readers | | pembaca layar |
+| script | | skrip |
+| scroll | | menggulir |
+| search engine | | mesin pencarian |
+| search field | | bidang pencarian |
+| selection controls | "Show play/stop and selection controls in carousel design" | kontrol seleksi |
+| self-service terminals | | terminal mandiri |
+| semantic HTML | | HTML semantik |
+| shortcut | | pintasan |
+| skip to content | | loncat ke konten |
+| slide | "Example of carousel with play and slide selection controls" | *slide* |
+| social network | | jejaring sosial |
+| software | | perangkat lunak |
+| source code | | kode program |
+| sub heading | | subjudul |
+| supports | | mendukung |
+| speaker recognition | | pengenalan pembicara |
+| speech-to-text | | ucapan-ke-teks |
+| speech recognition | | pengenalan ucapan |
+| speech input | | input via ucapan |
+| states | "Unique styles for different link states" | kondisi |
+| switch device | | perangkat sakelar |
+| Synthesized speech | | ujaran sintesis |
 
 ### T
 
@@ -265,7 +278,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 
 | English | Bahasa Indonesia |
 |---|---|
-| viewport | ukuran layar |
+| viewport | area-pandang, ukuran layar |
 | voice recognition | pengenalan suara |
 
 ### W
