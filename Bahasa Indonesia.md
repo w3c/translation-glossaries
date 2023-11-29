@@ -140,16 +140,17 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 
 ### I
 
-| English | Bahasa Indonesia |
-|---|---|
-| image sliders | gambar bergeser |
-| Information Society Technologies (IST) | 
-| input fields | bidang input |
-| input modalities | modalitas input |
-| input assistance | dukungan penginputan |
-| International Electrotechnical Commission (IEC) | Komisi Elektroteknik Internasional (IEC) |
-| International Organizations for Standardization (ISO) | Organisasi Standardisasi Internasional |
-| Internet of Things (IoT) | Internet untuk Segala (IoT) |
+| English | | Bahasa Indonesia |
+|---|---|---|
+| image sliders | | gambar bergeser |
+| Information Society Technologies (IST) |
+| inline | "inline code" | *inline* | 
+| input fields | | bidang input |
+| input modalities | | modalitas input |
+| input assistance | | dukungan penginputan |
+| International Electrotechnical Commission (IEC) | | Komisi Elektroteknik Internasional (IEC) |
+| International Organizations for Standardization (ISO) | | Organisasi Standardisasi Internasional |
+| Internet of Things (IoT) | | Internet untuk Segala (IoT) |
 
 ### K
 
@@ -266,18 +267,19 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 
 ### T
 
-| English | Bahasa Indonesia |
+| English | Use context | Bahasa Indonesia |
 |---|---|
-| Task-force | Satuan tugas, satgas |
-| text-to-speech | teks-ke-ucapan |
-| text alternatives | alternatif teks |
-| Timed Text Markup Language (TTML) | Timed Text Markup Language - Bahasa Markah Teks Terjadwal (TTML) (TTML) |
-| tips | kiat |
-| touch-pad | papan sentuh |
-| Track | Trek |
-| transcoding | konversi transcoding |
-| transcript | transkripsi |
-| typeface | rupa huruf |
+| Task-force | | Satuan tugas, satgas |
+| text-to-speech | | teks-ke-ucapan |
+| text alternatives | | alternatif teks |
+| Timed Text Markup Language (TTML) | | Timed Text Markup Language - Bahasa Markah Teks Terjadwal (TTML) (TTML) |
+| tips | | kiat |
+| title | "The page title is often the same as the main heading of the page." | titel |
+| touch-pad | | papan sentuh |
+| Track | | Trek |
+| transcoding | | konversi transcoding |
+| transcript | | transkripsi |
+| typeface | | rupa huruf |
 
 ### U
 
