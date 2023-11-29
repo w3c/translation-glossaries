@@ -12,31 +12,34 @@
 - [Ejaan Bahasa Indonesia yang Disempurnakan Versi 5 (EYD V)](https://ejaan.kemdikbud.go.id/)
 - [Pedoman Umum Pembentukan Istilah (PUPI)](https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/Pedoman_Umum%20Pembentukan_Istilah_PBN_0.pdf)
 - [Kamus Besar Bahasa Indonesia (KBBI)](https://kbbi.kemdikbud.go.id/)
+- [Padanan Istilah (Pasti) - Kemdikbud](https://pasti.kemdikbud.go.id/home.php)
 - [RSNI3 8527:2018 - Glosarium Istilah Teknologi Informasi](https://github.com/jk8s/sig-docs-id/raw/master/resources/RSNI-glossarium.pdf)
 
 ## Glossaries
 
 ### A
 
-| English | Bahasa Indonesia |
-|---|---|
-| Accessibility | Aksesibilitas |
-| Accessibility Conformance Testing | Uji Kesesuaian Aksesibilitas (ACT) |
-| accessible | aksesibel |
-| Accessible Platform Architectures Working Group | Kelompok Kerja Arsitektur Platform yang Aksesibel |
-| Accessible Rich Internet Applications | Aplikasi Internet yang Kaya dan Aksesibel (ARIA) |
-| acronym | singkatan |
-| Adaptable | Dapat Menyesuaikan |
-| alt text | alt text |
-| applicability | penerapan |
-| application programming interface | antarmuka pemrograman aplikasi (API) |
-| assistive technologies | teknologi pendukung |
-| at a glance | selayang pandang |
-| attention deficit hyperactivity disorder | Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) |
-| attribution | atribusi |
-| authenticate | otentikasi |
-| Authoring Tool Accessibility Guidelines | Pedoman Aksesibilitas Sarana Penulisan (ATAG) |
-| authoring tools | sarana penulisan |
+| English | Use context | Bahasa Indonesia |
+|---|---|---|
+| Accessibility | | Aksesibilitas |
+| Accessibility Conformance Testing | | Uji Kesesuaian Aksesibilitas (ACT) |
+| accessible | | aksesibel |
+| Accessible Platform Architectures Working Group | | Kelompok Kerja Arsitektur Platform yang Aksesibel |
+| Accessible Rich Internet Applications | | Aplikasi Internet yang Kaya dan Aksesibel (ARIA) |
+| accordion | "custom widgets, such as accordions and custom-made buttons" | akordeon |
+| acronym | | singkatan |
+| Adaptable | | Dapat Menyesuaikan |
+| alt text | | alt text |
+| applicability | | penerapan |
+| application programming interface | | antarmuka pemrograman aplikasi (API) |
+| assistive technologies | | teknologi pendukung |
+| at a glance | | sekilas tentang |
+| attention deficit hyperactivity disorder | | Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) |
+| attribute | Using `for` and `id` attributes in HTML | atribut |
+| attribution | | atribusi |
+| authenticate | | autentikasi |
+| Authoring Tool Accessibility Guidelines | | Pedoman Aksesibilitas Sarana Penulisan (ATAG) |
+| authoring tools | | sarana penulisan |
 
 ### B
 
@@ -54,10 +57,11 @@
 | captions | When both including subtitle and visual description of a video | takarir |
 | captions | When referring to only subtitle | subtitel |
 | carousels | | korsel |
-| Cascading Style Sheet (CSS) | | Cascading Style Sheet - Lembar Gaya Kaskade (CSS) |
+| Cascading Style Sheet (CSS) | | Cascading Style Sheet - Lembar Gaya Beriam (CSS) |
 | change log | | catatan perubahan |
 | co-funded | | didanai bersama |
 | code editor | | editor kode |
+| collapsing | "expanding and collapsing content" | menyusutkan |
 | compatible | kompatibel |
 | configuration | | pengaturan |
 | cognitive disability | | disabilitas kognitif |
@@ -89,16 +93,17 @@
 
 ### E
 
-| English | Bahasa Indonesia |
-|---|---|
-| education | pendidikan |
-| Education and Outreach Working Group (EWOG) | Kelompok Kerja Edukasi dan Pendampingan (EWOG) |
-| E-mail | Email |
-| embedded | disematkan |
-| error | eror |
-| Evaluation and Report Language | Bahasa Evaluasi dan Laporan (EARL) |
-| browser extension | ekstensi browser |
-| External Site | Situs Eksternal |
+| English | | Bahasa Indonesia |
+|---|---|---|
+| education | | pendidikan |
+| Education and Outreach Working Group (EWOG) | | Kelompok Kerja Edukasi dan Pendampingan (EWOG) |
+| E-mail | | Email |
+| embedded | | disematkan |
+| error | | eror |
+| Evaluation and Report Language | | Bahasa Evaluasi dan Laporan (EARL) |
+| browser extension | | ekstensi browser |
+| expanding | "expanding and collapsing content" | meluaskan |
+| External Site | | Situs Eksternal |
 
 ### F
 
@@ -110,6 +115,7 @@
 | file | | berkas |
 | font | | fon |
 | form | | isian |
+| forgiving | "Australian phone number field with forgiving validation" | toleran |
 
 ### G
 
@@ -130,7 +136,7 @@
 | headphone | | *headphone* |
 | headset | | *headset*, perangkat jemala |
 | hover | "change the appearance of links on mouse hover" | disoroti |
-Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hiperteks (HTML) |
+Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hiperteks (HTML) |
 
 ### I
 
@@ -208,6 +214,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | pop-up | sembulan |
 | pre-recorded video | video prarekam |
 | presentation | cara penyediaan |
+| Progressive Enhancement | Peningkatan Progresif |
 
 ### Q
 
@@ -221,6 +228,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 |---|---|
 | Readability | Keterbacaan |
 | remote | jarak jauh |
+| render | "User agents include browsers, browser extensions, media players, readers, and other applications that render web content." | menyajikan |
 | repetitive stress injuries (RSI) | cedera regangan berulang (RSI) |
 | resource | sumber informasi |
 | robust | kukuh |
@@ -241,6 +249,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | shortcut | | pintasan |
 | skip to content | | loncat ke konten |
 | slide | "Example of carousel with play and slide selection controls" | *slide* |
+| snippet | "code snippet" | penggalan |
 | social network | | jejaring sosial |
 | software | | perangkat lunak |
 | source code | | kode program |
@@ -285,7 +294,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 
 | English | Bahasa Indonesia |
 |---|---|
-| viewport | area-pandang, ukuran layar |
+| viewport | porta pandang, ukuran layar |
 | voice recognition | pengenalan suara |
 
 ### W
@@ -301,5 +310,12 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Markah Hip
 | Web Video Text Track (WebVTT) | Web Video Text Tracks - Trek Teks pada Video Web (WebVTT) |
 | website | situs web |
 | Website Accessibility Conformance Evaluation Methodology | Metodologi Evaluasi Kesesuaian Aksesibilitas Situs Web (WCAG-EM) |
+| widget | *widget*, gawit |
 | windows | jendela |
 | World Wide Web Consortium | Konsorsium World Wide Web (W3C) |
+
+### Z
+
+| English | Bahasa Indonesia |
+|---|---|
+| zoom | zum |
