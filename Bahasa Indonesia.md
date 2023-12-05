@@ -143,7 +143,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 | English | | Bahasa Indonesia |
 |---|---|---|
 | image sliders | | gambar bergeser |
-| Information Society Technologies (IST) |
+| Information Society Technologies (IST) | | Teknologi Masyarakat Informasi |
 | inline | "inline code" | *inline* | 
 | input fields | | bidang input |
 | input modalities | | modalitas input |
