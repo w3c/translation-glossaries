@@ -225,7 +225,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 
 | English | Bahasa Indonesia |
 |---|---|
-| quick reference | referensi singkat |
+| quick reference | referensi cepat |
 
 ### R
 
@@ -236,7 +236,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 | render | "User agents include browsers, browser extensions, media players, readers, and other applications that render web content." | menyajikan |
 | repetitive stress injuries (RSI) | cedera regangan berulang (RSI) |
 | resource | sumber informasi |
-| robust | kukuh |
+| robust | tangguh |
 
 ### S
 
