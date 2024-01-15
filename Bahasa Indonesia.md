@@ -214,6 +214,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 |---|---|
 | paste | tempel |
 | Perceivable | Dapat Diterima Indra |
+| placeholder | pengganti |
 | plug-ins | plugin |
 | people with disabilities | penyandang disabilitas |
 | pop-up | sembulan |
