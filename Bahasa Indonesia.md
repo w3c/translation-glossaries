@@ -23,6 +23,8 @@
 |---|---|---|
 | Accessibility | | Aksesibilitas |
 | Accessibility Conformance Testing | | Uji Kesesuaian Aksesibilitas (ACT) |
+| accessibility evaluation tools | | sarana evaluasi aksesibilitas |
+| Accessibility Guidelines Working Group (AG WG) | | Kelompok Kerja Pedoman Aksesibilitas (AG WG) |
 | accessible | | aksesibel |
 | Accessible Platform Architectures Working Group | | Kelompok Kerja Arsitektur Platform yang Aksesibel |
 | Accessible Rich Internet Applications | | Aplikasi Internet yang Kaya dan Aksesibel (ARIA) |
@@ -80,6 +82,7 @@
 |---|---|
 | deaf | disabilitas rungu |
 | default | bawaan |
+| deprecate | mengakhiri |
 | design | desain, rancang |
 | designer | desainer |
 | desktop | desktop |
@@ -109,6 +112,7 @@
 
 | English | Use context | Bahasa Indonesia |
 |---|---|---|
+| Frequently Asked Questions (FAQ) | | Pertanyaan yang Sering Diajukan (FAQ) |
 | feature | | fitur |
 | feedback | | umpan balik |
 | field | "use an asterisk in addition to color to indicate required form fields" | bidang |
