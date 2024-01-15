@@ -99,7 +99,7 @@
 | English | | Bahasa Indonesia |
 |---|---|---|
 | education | | pendidikan |
-| Education and Outreach Working Group (EWOG) | | Kelompok Kerja Edukasi dan Pendampingan (EWOG) |
+| Education and Outreach Working Group (EOWG) | | Kelompok Kerja Edukasi dan Pendampingan (EOWG) |
 | E-mail | | Email |
 | embedded | | disematkan |
 | error | | eror |
@@ -194,7 +194,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 | Navigable | Dapat Dinavigasikan |
 | navigation | navigasi |
 | native apps | aplikasi natif |
-| Non-Web Information and Communications Technologies | Teknologi Informasi dan Komunikasi Non-Web |
+| Non-Web Information and Communications Technologies | Teknologi Informasi dan Komunikasi Nonweb |
 | non-text contents | kontan nonteks |
 | notification | notifikasi |
 
