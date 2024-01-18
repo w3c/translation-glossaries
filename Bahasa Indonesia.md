@@ -4,7 +4,7 @@
 
 - we're using the formal form (e.g. "You" should be "Anda")
 - as we are aiming for accessibility when translating terms, aim for familiarity instead of persisting with formal but rarely used and rarely known Bahasa Indonesia terms (e.g. "World Wide Web" over "Waring Wera Wanua", "Email" over "Surel" or "Posel", "Subtitel" over "Takarir")
-- when referring to "the ability to access" due to "accessibility", we use "aksesibel" instead of "mudah/dapat diakses", but when we wanted to point out that it simply can be accessed, we use "mudah/dapat diakses"---the distinction helps reader understand the relevance of accessibility.
+- when referring to "the ability to access" due to "accessibility", we use "aksesibel" instead of "mudah/bisa diakses", but when we wanted to point out that it simply can be accessed, we use "mudah/bisa diakses"---the distinction helps reader understand the relevance of accessibility.
 - all keyboard keys will be called according to the name that’s written on the keyboard for example: “Enter”, “Shift”, “Control”. An exception is “Spacebar” which will be translated as “Tombol spasi” since the name is not commonly written in the key and it’s easier to understand and it is common to call the key as such.
 
 ## References
@@ -73,7 +73,7 @@
 | copy | | salin |
 | CSS styles | | format tampilan CSS |
 | custom-made | | dirancang khusus |
-| customizable | | dapat disesuaikan |
+| customizable | | Bisa Disesuaikan |
 | customization | | penyesuaian |
 
 ### D
@@ -89,7 +89,7 @@
 | developer | pengembang, developer |
 | dexterity | kecekatan |
 | disabilities | disabilitas |
-| Distinguishable | Dapat Dibedakan |
+| Distinguishable | Bisa Dibedakan |
 | Document Object Model (DOM) | Document Object Model - Model Objek Dokumen (DOM) |
 | DOM tree | pohon DOM |
 | download | unduh |
@@ -191,7 +191,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 
 | English | Bahasa Indonesia |
 |---|---|
-| Navigable | Dapat Dinavigasikan |
+| Navigable | Bisa Dinavigasikan |
 | navigation | navigasi |
 | native apps | aplikasi natif |
 | Non-Web Information and Communications Technologies | Teknologi Informasi dan Komunikasi Nonweb |
@@ -206,14 +206,14 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 | Older people | | lanjut usia (lansia) |
 | on-screen | "on-screen keyboard" | virtual |
 | online | | dalam jaringan (daring) |
-| Operable | | Dapat Dioperasikan |
+| Operable | | Bisa Dioperasikan |
 
 ### P
 
 | English | Bahasa Indonesia |
 |---|---|
 | paste | tempel |
-| Perceivable | Dapat Diterima Indra |
+| Perceivable | Bisa Diterima Indra |
 | placeholder | pengganti |
 | plug-ins | plugin |
 | people with disabilities | penyandang disabilitas |
@@ -290,7 +290,7 @@ Hypertext Markup Language (HTML) | Hypertext Markup Language - Bahasa Penanda Hi
 
 | English | Bahasa Indonesia |
 |---|---|
-| Understandable | Dapat Dimengerti |
+| Understandable | Bisa Dimengerti |
 | United Nations Convention on the Rights of Persons with Disabilities (UN CRPD) | Konvensi Perserikatan Bangsa-Bangsa tentang Hak-hak Penyandang Disabilitas (CRPD PBB)
 | User Agent Accessibility Guidelines | Pedoman Aksesibilitas Agen Pengguna (UAAG) |
 | user needs | kebutuhan pengguna |
