@@ -1,4 +1,4 @@
-## You
+## Formal “you”
 
 * Use formal “Sie” (not informal “du”).
 * For example, “You may use this video if you include a link to this page.” ([in context](https://www.w3.org/WAI/videos/standards-and-benefits/#permission)) → “Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen.”
