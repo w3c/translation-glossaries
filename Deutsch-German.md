@@ -6,4 +6,6 @@
 
 ## Joint spelling of nouns
 
-@@ https://www.duden.de/sprachwissen/rechtschreibregeln/getrennt-und-zusammenschreibung
+* Composite words should be written as one word, if possible, or as a hyphenated word.
+* For example, “W3C-Richtlinien” (instead of “W3C Richtlinien”) or “`alt`-Entscheidungsbaum” (instead of “`alt` Entscheidungsbaum”)
+* This seems to be supported by several Duden rules, notably [D26](https://www.duden.de/sprachwissen/rechtschreibregeln/bindestrich#D26).
